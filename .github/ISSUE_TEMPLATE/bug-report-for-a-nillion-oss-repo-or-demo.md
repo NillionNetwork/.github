@@ -3,7 +3,7 @@ name: Bug Report for a Nillion-OSS repo or demo
 about: Report a reproducible bug found in a Nillion-OSS repo or demo
 title: "[BUG] quick description of bug"
 labels: needs validation
-assignees: 
+assignees: ''
 
 ---
 
