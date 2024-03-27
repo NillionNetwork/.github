@@ -1,13 +1,13 @@
 ---
-name: Bug Report for a Nillion-OSS repo or demo
-about: Report a reproducible bug found in a Nillion-OSS repo or demo
+name: Bug Report for a NillionNetwork repo or demo
+about: Report a reproducible bug found in a NillionNetwork repo or demo
 title: "[BUG] quick description of bug"
 labels: needs validation
 assignees: ''
 
 ---
 
-Thank you for taking the time to file a bug report! If you have found a bug in a Nillion-OSS repo or demo, this is the place to report it. 
+Thank you for taking the time to file a bug report! If you have found a bug in a NillionNetwork repo or demo, this is the place to report it. 
 
 **Describe the bug**
 A clear and concise description of what the bug is. 
