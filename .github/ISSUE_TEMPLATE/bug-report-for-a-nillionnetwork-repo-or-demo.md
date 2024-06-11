@@ -41,3 +41,6 @@ If applicable, add links to relevant code.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Optional - ETH Address**
+Optionally add your ETH Address here.
