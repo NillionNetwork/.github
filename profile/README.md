@@ -29,5 +29,4 @@ Get started with Nillion in one of the following links:
 * <a href="https://discord.com/invite/nillionnetwork">Discord</a>: Our official Discord server.
 * <a href="https://github.com/NillionNetwork/builder-bounties">Builder Bounties</a>: Use the Builder Bounties Board to discover open bounties, which reward developers for building awesome open source blind applications, libraries, and projects on Nillion.
 * <a href="https://github.com/orgs/NillionNetwork/discussions?discussions_q=">GitHub Discussions</a>: This forum is designed to be a central hub for technical discussions related to Nillion, where builders can share ideas, ask questions, showcase their projects, and stay updated on the latest news and announcements from the Nillion team.
-* <a href="https://www.nillhub.com/">NillHub</a>: our community discussion forum. This is a place where all Nills from around the globe can share, learn, and create together, and for anyone whose native language isn't English, there are sub-categories for languages with their own communities too.
 * <a href="https://apply.workable.com/nillion/">Jobs</a>: We are hiring! Apply to our open positions on Workable.
