@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://twitter.com/nillionnetwork"><img src="https://img.shields.io/badge/NillionNetwork-000?color=0021F5&style=plastic&logo=twitter&logoColor=white&label=Twitter"></a>
   <a href="https://discord.com/invite/nillionnetwork"><img src="https://img.shields.io/discord/905926225120338000?color=0021F5&style=plastic&label=Discord&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/orgs/NillionNetwork/discussions"><img src="https://img.shields.io/badge/Developer-Technical_Questions-0021F5?color=0021F5&style=plastic&label=Github Discussions&logo=github&logoColor=white"></a>
+  <a href="https://github.com/orgs/NillionNetwork/discussions"><img src="https://img.shields.io/badge/Developer-Technical_Questions-0021F5?color=0021F5&style=plastic&label=Github+Discussions&logo=github&logoColor=white"></a>
 <br></br> 
 </p>
 
